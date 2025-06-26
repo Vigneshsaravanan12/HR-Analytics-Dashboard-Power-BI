@@ -11,7 +11,7 @@ This project is an interactive HR dashboard built using **Power BI**, based on e
 | `HR_Dashboard.pbix` | The Power BI file (interactive dashboard) |
 | `HR_Data.xlsx` | HR dataset used in the dashboard |
 | `HR_Dashboard.pdf` | Exported view of the dashboard |
-| `overview of dashboard.png` | Sample screenshot of the dashboard UI |
+| `overview_dashboard.png` | Sample screenshot of the dashboard UI |
 
 ---
 
@@ -28,7 +28,7 @@ This project is an interactive HR dashboard built using **Power BI**, based on e
 ## 📸 Dashboard Snapshots
 
 ### 🔹 Overall KPI Dashboard
-[Dashboard Overview](overview_dashboard.png)
+![Dashboard Overview](https://github.com/Vigneshsaravanan12/HR-Analytics-Dashboard-Power-BI/blob/58ab3656744b3b67e2298e5b9ecf82b64dfd6d5c/overview_dashboard.png)
 
 
 ---
