@@ -1,4 +1,4 @@
-# 🧑‍💼 HR Analytics Dashboard – Power BI
+# HR Analytics Dashboard – Power BI
 
 This project is an interactive HR dashboard built using **Power BI**, based on employee data from a chocolate company. It helps visualize key HR metrics like headcount, salary distribution, department-wise staffing, and employee demographics.
 
@@ -28,7 +28,7 @@ This project is an interactive HR dashboard built using **Power BI**, based on e
 ## 📸 Dashboard Snapshots
 
 ### 🔹 Overall KPI Dashboard
-![Dashboard Overview](overviewofdashboard.png)
+[Dashboard Overview](overview_dashboard.png)
 
 
 ---
